@@ -1,6 +1,6 @@
 {"1":{"questao":"De onde é o homem mais alto do mundo?","opcoes":["Estados Unidos"," Egito", "Turquia","Brasil"],"resposta":"Turquia"},
 
-"2":{"questao":"Qual é o livro mais vendido depois da Bíblia?","opcoes":["O Senhor dos Anéis", "Harry Potter", "O Pequeno Príncipe(Dom quixote)"," Um Conto de Duas Cidades"],"resposta":"O Pequeno Príncipe(Dom quixote)"},
+"2":{"questao":"Qual é o livro mais vendido depois da Bíblia?","opcoes":["O Senhor dos Anéis", "Harry Potter", "Dom quixote"," Um Conto de Duas Cidades"],"resposta":"O Pequeno Príncipe(Dom quixote)"},
 "3":{"questao":"Quanto tempo a luz do sol demora para chegar na terra?","opcoes":["12 minutos"," 24 horas"," 12 horas","8 minutos"," 2 segundos"],"resposta":"8 minutos"},
 "4":{"questao":"Em qual período pré-histórico o fogo foi descoberto?","opcoes":["Neolítico","Paleolítico","Idade dos Metais","Idade Média"],"resposta":"Paleolítico"},
 "5":{"questao":"Quanto vale Pi?","opcoes":["4,52","3,47","5,21","11,67","3,14"],"resposta":"3,14"},
