@@ -3,7 +3,7 @@
 "2":{"questao":"Qual é o livro mais vendido depois da Bíblia?","opcoes":["O Senhor dos Anéis", "Harry Potter", "Dom quixote"," Um Conto de Duas Cidades"],"resposta":"Dom quixote"},
 "3":{"questao":"Quanto tempo a luz do sol demora para chegar na terra?","opcoes":["12 minutos"," 24 horas"," 12 horas","8 minutos"," 2 segundos"],"resposta":"8 minutos"},
 "4":{"questao":"Em qual período pré-histórico o fogo foi descoberto?","opcoes":["Neolítico","Paleolítico","Idade dos Metais","Idade Média"],"resposta":"Paleolítico"},
-"5":{"questao":"Quanto vale Pi?","opcoes":["4,52","3,47","5,21","11,67","3,14"],"resposta":"3,14"},
+"5":{"questao":"Quanto vale Pi?","opcoes":["4,52","3,47","5,21","3,14"],"resposta":"3,14"},
 "6":{"questao":"Qual é o maior parque de diversões do mundo?","opcoes":["Beto Carrero World","Walt Disney World","Universal Studios Hollywood"," Disneyland Paris"],"resposta":"Walt Disney World"},
 "7":{"questao":"As pessoas de que tipo sanguíneo são consideradas doadores universais?","opcoes":["Tipo A","Tipo B","Tipo O","Tipo AB","Tipo ABO"],"resposta":"Tipo O"},
 "8":{"questao":"Quem pintou a Monalisa?","opcoes":["Michelangelo","Salvador Dalí","Leonardo Da Vinci","Van Gogh"],"resposta":"Leonardo Da Vinci"},
